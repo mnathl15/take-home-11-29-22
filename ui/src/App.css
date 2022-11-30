@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.post {
+  width: 500px;
+  border: 2px solid black;
+}
+
+
+.post-list-component {
+
+  width: 500px;
+}
